@@ -1,0 +1,21 @@
+{
+  title: "Main Effects and interaction Plots (General) - plots means only",
+  "navigation": "Main Effects and interaction Plots (General)",
+  "tvarbox1": "Factor 1 - factor defining horizontal axis of the plot.",
+  "tvarbox2": "Factor 2 - if present, factor defining profiles of means",
+  "tvarbox3": "Response variable(select one)",
+
+  help: {
+    title: "Main Effects and interaction Plots (General) - plots means only",
+    r_help: "help(plotMeans, package = RcmdrMisc)",
+    body: `
+    <b>Description</b></br>
+    Plot Means for one or two-way layout
+    <br/>
+    <br/>
+    For the detail help - use R help(plotMeans, package = RcmdrMisc)
+    <br/>
+
+    `
+  },
+}
